@@ -1,4 +1,4 @@
-# Machine Leaning Algorithm and Python Source code
+# Machine Learning Algorithm and Python Source code
 For any Machine Learning Algorithm We need to Flow Data Preprocessing Part
 #### Data Preprocessing
 There are some steps need to flow Data Preprocessing:-
