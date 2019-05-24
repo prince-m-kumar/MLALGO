@@ -21,8 +21,6 @@ I try to cover Some Machine Learning Algorithm
 
 
 
-### Regression
-
 
 
 
